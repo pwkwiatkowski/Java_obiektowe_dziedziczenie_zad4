@@ -1,4 +1,4 @@
-# Java_obiektowe_klasy_zadanie1
+# Java_obiektowe_dziedziczenie_zad4
 > This is my university project for Java.
 
 ## Table of contents
